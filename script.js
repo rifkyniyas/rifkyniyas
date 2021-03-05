@@ -149,5 +149,9 @@ function showSlides(n) {
     slides[slideIndex-1].style.display = "block";
 }
 AOS.init({
-    duration: 1200,
+    duration: 800,
+    // disable: function() {
+    //     var maxWidth = 800;
+    //     return window.innerWidth < maxWidth;
+    // }
 })

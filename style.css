@@ -479,20 +479,6 @@ footer{
     color: white;
     padding: 2rem 1rem;
 }
-.container-fluid:hover .card{
-    animation: slide-up 1s ease;
-    animation-delay: none;
-}
-@keyframes slide-up{
-    from{
-        transform: translateY(50px);
-        opacity: 0;
-    }
-    to{
-        transform: translateY(0);
-        opacity: 1;
-    }
-}
 .img-certificate{
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
@@ -584,10 +570,13 @@ footer{
 }
 .carousel-item {
     min-height: 500px;
-    max-height: 150vh;
+    max-height: 200vh;
 }
 .carousel-indicators {
     bottom: -50px;
+}
+.hidden-overflow{
+    overflow-x: hidden;
 }
 /* font-family: 'Assistant', sans-serif;
 font-family: 'Satisfy', cursive; 

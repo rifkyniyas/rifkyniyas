@@ -32,7 +32,7 @@
         </div>
     </div>
     <div class="icon-wrap-sticky" id="sticky-logo"><img src="src/logo.jpg" alt="" class="sticky-logo" onclick="openNav()"></div>
-    <div class="container-fluid landing__area" data-aos="fade-right">
+    <div class="container-fluid landing__area">
         <div class="d-flex justify-content-center p-5 landing__icon">
             <div class="icon-wrap" href="#" id="logo"><img src="src/logo.jpg" alt="" class="logo" onclick="openNav()"></div>
         </div>
@@ -159,7 +159,7 @@
     </div>
     <div class="container" id="education">
         <div class="row">
-            <div class="col-md-12">
+            <div class="col-md-12 hidden-overflow">
                 <h2 class="section_heading" data-aos="zoom-in">Education</h2>
                 <p class="section_intro" data-aos="fade-left">Here are some of the certifications from certain resources I used as a self-taught web developer</p>
             </div>
@@ -214,21 +214,20 @@
     </div>
     <div class="container" id="pricing">
         <div class="row">
-            <div class="col-md-12">
+            <div class="col-md-12 hidden-overflow">
                 <h2 class="section_heading" data-aos="zoom-in">Pricings</h2>
                 <p class="section_intro" data-aos="fade-left">Quality service for cheap price</p>
             </div>
         </div>
     </div>
-    <div id="pricingCarousel" class="carousel slide" data-ride="carousel">
+    <div id="pricingCarousel" class="carousel slide container-fluid" data-ride="carousel">
         <ol class="carousel-indicators">
             <li data-target="#pricingCarousel" data-slide-to="0" class="active"></li>
             <li data-target="#pricingCarousel" data-slide-to="1"></li>
         </ol>
-        <div class="carousel-inner">
-            <div class="carousel-item active">
-                <!--First Item-->
-                <div class="container">
+        <div class="carousel-inner row">
+            <div class="carousel-item active col-md-12">
+                <div class="container-fluid">
                     <div class="row d-flex justify-content-center mb-3">
                         <div class="col-md-8">
                             <h3 class="pricing_header round-border" data-aos="fade-up">E-commerce Special Bundle</h3>
@@ -356,9 +355,8 @@
                     </div>
                 </div>
             </div>
-            <div class="carousel-item">
-                <!--Second item-->
-                <div class="container">
+            <div class="carousel-item col-md-12">
+                <div class="container-fluid">
                     <div class="row d-flex justify-content-center mb-3">
                         <div class="col-md-8">
                             <h3 class="pricing_header round-border" data-aos="fade-up">Ultimate Full-Stack Web Development Bundle</h3>
@@ -497,7 +495,7 @@
                 <h2 class="section_heading" data-aos="zoom-in">About Me</h2>
             </div>
         </div>
-        <div class="row p-5">
+        <div class="row p-5 hidden-overflow">
             <div class="col-md-4 d-flex justify-content-center align-items-center" data-aos="fade-right">
                 <img src="src/rifky.jpg" alt="Rifky" class="about_picture shadow-lg">
             </div>
