@@ -7,6 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/niyasrifky" target="blank"><img src="https://img.shields.io/twitter/follow/niyasrifky?logo=twitter&style=for-the-badge" alt="niyasrifky" /></a> </p>
 
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rifkyniyas&show_icons=true&locale=en&layout=compact" alt="rifkyniyas" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rifkyniyas&show_icons=true&locale=en" alt="rifkyniyas" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rifkyniyas&" alt="rifkyniyas" /></p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/rifkyniyas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="rifkyniyas" height="30" width="40" /></a>
@@ -23,9 +30,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/rifkyniyas"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/rifkyniyas" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rifkyniyas&show_icons=true&locale=en&layout=compact" alt="rifkyniyas" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rifkyniyas&show_icons=true&locale=en" alt="rifkyniyas" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rifkyniyas&" alt="rifkyniyas" /></p>
